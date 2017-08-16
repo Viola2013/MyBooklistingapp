@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Book listing app</string>
+        <string name="text">Enter an author or book title to search.. </string>
+        <string name="hint_search">enter keywords to search</string>
+        <string name="no_books_found">No books found by that author or title.\nPlease try another.</string>
+        <string name="no_internet_connection">No internet connection available.\nPlease check your connection settings.</string>
+        </resources>
